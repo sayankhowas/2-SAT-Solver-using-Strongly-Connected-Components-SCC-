@@ -1,1 +1,0 @@
-# 2-SAT-Solver-using-Strongly-Connected-Components-SCC-
